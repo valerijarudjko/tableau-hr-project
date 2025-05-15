@@ -10,16 +10,17 @@ The dashboard offers a detailed view of various HR metrics, including employee e
 
 ## Preview of the Interactive Dashboard
 
+## Preview of the Interactive Dashboard
+
 Here is a preview of the HR Analytics Dashboard:
 
-![HR Analytics Dashboard](https://public.tableau.com/static/images/WH/WHJ247NNC/1.png)
-
+![HR Analytics Dashboard](https://public.tableau.com/static/images/HR/HRAnalyticsDashboard-Insights/1.png)
 
 ## View the Interactive Dashboard
 
 You can view the live, interactive HR Analytics Dashboard by clicking the link below:
 
-[View HR Analytics Dashboard](https://public.tableau.com/shared/WHJ247NNC?:display_count=n&:origin=viz_share_link)
+[View HR Analytics Dashboard](https://public.tableau.com/app/profile/valerija.r/viz/HRAnalyticsDashboard-Insights/HRAnalyticsDashboard)
 
 ## Installation Instructions
 
