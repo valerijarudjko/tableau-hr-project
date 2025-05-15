@@ -8,6 +8,13 @@ The dashboard offers a detailed view of various HR metrics, including employee e
 - **HR insights** into employee turnover, retention, and trends.
 - **Data-driven decision-making tools** for HR departments.
 
+## Preview of the Interactive Dashboard
+
+Here is a preview of the HR Analytics Dashboard:
+
+![HR Analytics Dashboard](https://public.tableau.com/static/images/WH/WHJ247NNC/1.png)
+
+
 ## View the Interactive Dashboard
 
 You can view the live, interactive HR Analytics Dashboard by clicking the link below:
